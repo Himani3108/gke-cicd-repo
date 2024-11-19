@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/noble-helper-427517-t7/locations/us-central1-c/clusters/cluster-2
+  cluster: projects/wise-imagery-440722-p7/locations/us-central1-c/clusters/cluster-2
 
